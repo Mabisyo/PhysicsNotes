@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo/Test File Push.md",
+                "file": "repo/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test File Push"
+              "title": "README"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "e51777d571730129",
   "lastOpenFiles": [
-    "repo/README.md",
     "repo/Test File Push.md",
+    "repo/README.md",
     "repo",
     "Welcome.md"
   ]
