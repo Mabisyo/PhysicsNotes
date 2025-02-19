@@ -47,6 +47,7 @@ ______________
 $$
 	F_a=-F_r(t_a-t_r)
 $$
+
 ## Mass
 *Manifestation of an object's inertia (Classical Mechanics)*
 	The amount of matter inside an object or system, which is a scalar quantity and measured in kilograms. It measures the resistance of an object (or system) to changes in its motion due to a New-force. It is the quantitative measure of the inertia of the object. It is inversely proportional to acceleration.
@@ -108,3 +109,6 @@ $$
 $$
 ==*Remember*: Forces are vectors, and must be broken down into components to calculate accurately. This derivation of components can be applied to any situation.==
 
+$$
+	
+$$
