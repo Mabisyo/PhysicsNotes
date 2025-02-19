@@ -1,4 +1,4 @@
-# Project Archimedes
+# Physics Notes
 a collaborative Physics note taking system native on Obsidian.
 _________________
 Using Obsidian Git, we will have the ability to share, collaborate, and organize our physics notes, references, and practice papers to maximize the efficiency and effectiveness of our studying. The goal is to have a comprehensive course outline complete with notes for various physics classes and topics.
