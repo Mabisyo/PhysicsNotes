@@ -1,5 +1,4 @@
-[[STEM]]
-#AP1-U1 
+#physics1-mechanics 
 ___________________
 # Summary and Conceptual Breakdown
 _______________

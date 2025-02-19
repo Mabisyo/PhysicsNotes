@@ -1,6 +1,5 @@
 ______________________________________
-[[STEM]]
-#AP1-U1 
+ #physics1-mechanics 
 ____________________
 # Concepts 
 - ==Net Force==: The vector sum of all the external forces acting on an object or system

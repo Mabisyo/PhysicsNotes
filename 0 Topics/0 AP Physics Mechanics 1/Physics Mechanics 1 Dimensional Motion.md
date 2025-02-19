@@ -1,6 +1,5 @@
-#AP1-U1
-#physics
-[[STEM]]
+___________________
+#physics1-mechanics 
 __________________________________________________________________________
 # Definitions, Concepts, & Formulas
 

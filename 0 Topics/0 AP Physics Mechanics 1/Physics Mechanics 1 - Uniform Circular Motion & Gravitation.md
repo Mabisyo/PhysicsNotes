@@ -1,7 +1,6 @@
+
 ___________________
-[[STEM]]
-[[Physics Mechanics Forces and Gravity]]
-#AP1-U1 
+#physics1-mechanics 
 
 ________________
 # UCM - Concepts and Definitions
