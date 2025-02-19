@@ -82,7 +82,7 @@ $$
 *Universal gravitation describes the force of attraction between two masses. This concept is fundamental to understanding planetary motion and satellite dynamics.*
 ________________
 ### Concepts & Definitions
-- Gravity: One of the fundamental forces. This force is a field force, and the field is g, the acceleration of gravity. every mass in the universe generates a gravity field. The gravity field is directed toward the center of mass. while the nature of the force is not understood the mathematics are detailed in Newton's Law of Universal Gravitation.
+- Gravity: One of the fundamental forces. This force is a field force, and the field is g, the acceleration of gravity. Every mass in the universe generates a gravity field. The gravity field is directed toward the center of mass. While the nature of the force is not understood the mathematics are detailed in Newton's Law of Universal Gravitation.
 - Weightlessness simply means that the surface you touch exerts no normal force on you. Normal force is responsible for giving you the perception of weight. Weightlessness means that whatever object you are interacting with has the same acceleration as you do. 
 ### Equations
 #### Newton's Law of Universal Gravitation: 
