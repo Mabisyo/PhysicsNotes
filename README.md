@@ -37,8 +37,6 @@ Below are some recommended plugins that you should add to your Obsidian Vault to
 - Omnisearch: Allows you to search for PDFs and any other external files that are uploaded to you vault 
 - Smart Typography: Allows for quicker typing of unconventional characters
 - Smart Tables: Adds Hot Keys for tabling data
-## Discord
-
 
 
 
