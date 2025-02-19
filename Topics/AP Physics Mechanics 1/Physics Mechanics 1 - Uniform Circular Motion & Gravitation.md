@@ -104,6 +104,8 @@ Where:
 $$
 	T^2 = \frac{4\pi^2}{GM}a^3
 $$
+# Derivations
+
 # AP Exam Tips
 - UCM: Since the free-body diagram is supposed to show all the individual forces on an object, and not the components or sums, it should never have a force labeled as the centripetal force.
 - UCM: Whenever the velocity of an object changes direction, it accelerates, even if the speed is constant, therefore it must be accelerating towards the center of the circle. 
