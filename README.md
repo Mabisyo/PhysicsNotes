@@ -4,7 +4,7 @@ _________________
 Using Obsidian Git, we will have the ability to share, collaborate, and organize our physics notes, references, and practice papers to maximize the efficiency and effectiveness of our studying. The goal is to have a comprehensive course outline complete with notes for various physics classes and topics.
 
 ## Organization and Formatting
-Just reference how other files are formatted and format similarly. Just be sure to add back links accordingly if there are multiple topics that can be connected or referenced. 
+Just reference how other files are formatted and format similarly. Heading are added by using a hashtag (#) followed by a space, then whatever you want to add afterwards. Just be sure to add back links accordingly if there are multiple topics that can be connected or referenced. 
 ## How to Use
 By the time you are able to read this file, you are most likely already connected to the repository and now just need to figure out how to add and receive files that are uploaded, edited, and synced to the GitHub repository. To do so follow these steps: 
 ### Adding files to the Repository
@@ -18,6 +18,8 @@ ____________________
 	- A window on the right of your screen will appear.
 - There will be two folders, when you edit a file, that file will appear in the changes folder 
 - When you are ready to upload your changes or the new file to the repository, click the plus button next to your file 
+- Click Git source Control on task bar
+- Window appears (right)
 	- The file will be added to the Staged Changes Folder 
 - In order to complete the addition of the file to the repository, click the check mark that reads commit on the top task bar of your Git source control tap. Once you have done that, click on the icon that has the up arrow (reads “push”)
 	- You should receive a notification on the top right of your screen that the file has been pushed 
@@ -37,6 +39,7 @@ Below are some recommended plugins that you should add to your Obsidian Vault to
 - Omnisearch: Allows you to search for PDFs and any other external files that are uploaded to you vault 
 - Smart Typography: Allows for quicker typing of unconventional characters
 - Smart Tables: Adds Hot Keys for tabling data
+- File Order: Allows you to change the order of your files using number indexing
 
 
 
