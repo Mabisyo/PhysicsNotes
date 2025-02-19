@@ -94,7 +94,7 @@ _______________________________________________________
 ## Weight
 Magnitude of the pull of gravity on an object or system. Weight is a force, with units of Newtons. Mass is not equal to weight.
 $$
-	F_g=W = m * g
+	F_g=Weight = m * g
 $$
 # Practice
 ____________________
