@@ -12,4 +12,3 @@ __________________
 #physics-electrotism-magnetism
 
 # Links and Back Links
-[[Work]]
