@@ -38,7 +38,7 @@ Below are some recommended plugins that you should add to your Obsidian Vault to
 - Excalidraw: Allows you to add hand written notes on native Obsidian
 - Omnisearch: Allows you to search for PDFs and any other external files that are uploaded to you vault 
 - Smart Typography: Allows for quicker typing of unconventional characters
-- Smart Tables: Adds Hot Keys for tabling data
+- Advanced Tables: Adds Hot Keys for tabling data
 - File Order: Allows you to change the order of your files using number indexing
 
 
