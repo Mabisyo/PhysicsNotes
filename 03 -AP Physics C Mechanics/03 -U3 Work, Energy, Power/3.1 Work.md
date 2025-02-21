@@ -1,0 +1,3 @@
+$$
+W\tiny total \normalsize = \intop F \cdot dr
+$$
