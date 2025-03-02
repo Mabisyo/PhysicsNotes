@@ -12,6 +12,7 @@
 	What changes the total mechanical energy of a system? $$ W\tiny nonconservative \normalsize = \Delta E\tiny mech $$
 	Definition of average power: $$ P\tiny avg \normalsize = \frac {W}{\Delta t} $$
 	Instantaneous power: $$ P = F • \frac {dr}{dt} = F•v $$
+	Definition of a Watt, the unit for power: $$ W = \frac Js = \frac {kg\space m^2}{s^3} $$
 	**IMPORTANT FOR POTENTIAL ENERGY FUNCTIONS U(x)**
 	Relationship between force and potential energy in linear motion: $$ F\tiny x \normalsize = -\frac {dU}{dx} $$
 	
