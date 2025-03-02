@@ -12,6 +12,7 @@ ___________________________________
 - ==Angular Displacement==: The angle through which an object rotates (radians)
 - ==Angular Velocity==: Rate of change of angular displacement (m/s)
 - ==Angular Acceleration==: Rate of change of angular velocity 
+- ==Cross Product==: The cross product of two vectors results in a vector perpendicular to both
 # Equations
 ### Torque
 $$
@@ -20,12 +21,33 @@ $$
 	- r: Distance from the pivot point to the point of force application (lever arm)
 	- F: Applied force
 	- θ: Angle between the force vector and the lever arm
+#### Magnitude of Torque
+$$
+	\tau = r_\perp F
+$$
+- Tau is the magnitude of the torque produced by a force exerted on an extended object
+- *F* is the magnitude of the force 
+- *r* is the Lever arm:
+	- perpendicular distance from the rotation axis of the extended object to the line of action of the force
+#### Net Torque
+$$
+	\sum \tau\tiny ext\normalsize = I\alpha_z 
+$$
+- The *net torque*, or sum of all external torques exerted on a rigid body for the axis about which it can rotate
+- Alpha: The angular acceleration produced by the net torque (for dir. use RHR)
+- *I*: The object's rotational inertia for the axis about which it can rotate
+## Vector Multiplication
+$$
+	A \times B = |A||B|sin\theta n
+$$
+- *n*: Unit vector perpendicular to the plane of *A* and *B*.
 ### Tangential Acceleration
 $$
 	a_t = \alpha r
 $$
 - Acceleration along the tangent of the circular path, caused by a change in speed.
 - Alpha: Angular acceleration (rads per second square)
+
 # Videos & Practice Problems
 
 _______________________________
