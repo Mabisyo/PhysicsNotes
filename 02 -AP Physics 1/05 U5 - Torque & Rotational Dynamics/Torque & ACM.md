@@ -14,6 +14,20 @@ ___________________________________
 - ==Angular Acceleration==: Rate of change of angular velocity 
 - ==Cross Product==: The cross product of two vectors results in a vector perpendicular to both
 # Equations
+_____________________
+
+## Angular Velocity
+$$
+	\omega = \omega_0+\alpha t
+$$
+## Change in Angular Position
+$$
+	\theta = \theta_0+\omega_0t+\frac{1}{2}\alpha t^2
+$$
+## Final Angular Velocity 
+$$
+	\omega^2 = \omega^2_0 + 2\alpha(\theta-\theta_0)
+$$
 ### Torque
 $$
 	\tau = r * F = rFsin\theta
@@ -33,6 +47,9 @@ $$
 $$
 	\sum \tau\tiny ext\normalsize = I\alpha_z 
 $$
+$$
+	\sum \tau = (\sum mr^2)\alpha
+$$
 - The *net torque*, or sum of all external torques exerted on a rigid body for the axis about which it can rotate
 - Alpha: The angular acceleration produced by the net torque (for dir. use RHR)
 - *I*: The object's rotational inertia for the axis about which it can rotate
@@ -47,7 +64,19 @@ $$
 $$
 - Acceleration along the tangent of the circular path, caused by a change in speed.
 - Alpha: Angular acceleration (rads per second square)
-
+## Rotational Inertia
+- For an object of mass *m* rotating at a distance r from a fixed axis
+$$
+	I=mr^2
+$$
+### Moments of Inertia: Thin walled hollow cylinder/hoop
+$$
+	I = MR^2
+$$
+### Moments of Inertia: Solid Cylinder or Disk
+$$
+	I=\frac{1}{2}MR^2
+$$
 # Videos & Practice Problems
 
 _______________________________
