@@ -83,3 +83,6 @@ _______________________________
 
 ![](https://youtu.be/Ic_wFYu8xVs?si=pmS9GPO_achKJ12v)
 ![](https://youtu.be/b-HZ1SZPaQw?si=dfBJ9aujq-yEDBuv)
+
+
+![](vectors.png)

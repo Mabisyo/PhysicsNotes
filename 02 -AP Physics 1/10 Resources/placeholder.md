@@ -1,1 +1,0 @@
-![](vectors 1.png)
