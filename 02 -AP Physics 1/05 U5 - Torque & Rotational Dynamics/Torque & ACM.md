@@ -85,4 +85,4 @@ _______________________________
 ![](https://youtu.be/b-HZ1SZPaQw?si=dfBJ9aujq-yEDBuv)
 
 
-![](vectors.png)
+![](dotproduct.png)
