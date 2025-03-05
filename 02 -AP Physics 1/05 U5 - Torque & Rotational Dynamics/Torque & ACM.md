@@ -13,6 +13,7 @@ ___________________________________
 - ==Angular Velocity==: Rate of change of angular displacement (m/s)
 - ==Angular Acceleration==: Rate of change of angular velocity 
 - ==Cross Product==: The cross product of two vectors results in a vector perpendicular to both
+- ==Lever Arm==:  The distance r that is perpendicular to the line of action of the force
 # Equations
 _____________________
 
