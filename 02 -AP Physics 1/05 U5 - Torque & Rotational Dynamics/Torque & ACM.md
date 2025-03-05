@@ -8,11 +8,14 @@ ___________________________________
 	- The net torque on an object is equal to its angular acceleration multiplied by its moment of inertia. 
 	- **Moment of Inertia**: relates to the mass and depends on how that mass is distributed. The farther away the mass is from the axis of rotation, the higher the object's moment of inertia. 
 	- Measured in newton-meters (Nm)
-	- Direction: Torque is a vector quantity (Ref. Right hand rule)
+	- Direction: Torque is a vector quantity (Ref. Right hand rule); If the rotation is clockwise, the torque is negative. If the rotation is counter-clockwise, the torque is positive. 
 - ==Angular Displacement==: The angle through which an object rotates (radians)
 - ==Angular Velocity==: Rate of change of angular displacement (m/s)
 - ==Angular Acceleration==: Rate of change of angular velocity 
 - ==Cross Product==: The cross product of two vectors results in a vector perpendicular to both
+	- *Using the Right hand rule can help with visualizing the direction of Torque*
+	- *When multiplying vectors, ensure to visualize a tail to tail method*: ![](crossproductconceptual.gif)
+
 - ==Lever Arm==:  The distance r that is perpendicular to the line of action of the force
 # Equations
 _____________________
@@ -86,4 +89,4 @@ _______________________________
 ![](https://youtu.be/b-HZ1SZPaQw?si=dfBJ9aujq-yEDBuv)
 
 
-![](dotproduct.png)
+
