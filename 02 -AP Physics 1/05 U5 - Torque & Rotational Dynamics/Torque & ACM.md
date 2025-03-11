@@ -17,6 +17,13 @@ ___________________________________
 	- *When multiplying vectors, ensure to visualize a tail to tail method*: ![](crossproductconceptual.gif)
 
 - ==Lever Arm==:  The distance r that is perpendicular to the line of action of the force
+### Angular Kinematics Review
+
+|         | Position | Velocity | Acceleration |
+| ------- | -------- | -------- | ------------ |
+| Linear  | x(t)     | v(t)     | a(t)         |
+| Angular | θ(t)     | ω(t)     | α(t)         |
+- Equation for 
 # Equations
 _____________________
 
@@ -88,5 +95,8 @@ _______________________________
 ![](https://youtu.be/Ic_wFYu8xVs?si=pmS9GPO_achKJ12v)
 ![](https://youtu.be/b-HZ1SZPaQw?si=dfBJ9aujq-yEDBuv)
 
+______________
 
+## Question 1 - Easy (Test Knowledge)
+- A 30.0 kg child sits 2.0m from the fulcrum of a seesaw. How far from the fulcrum must an 18kg child sit on the other side for the seesaw to balance?
 
