@@ -43,9 +43,9 @@ $$
 $$
 	\tau = r * F = rFsin\theta
 $$
-	- r: Distance from the pivot point to the point of force application (lever arm)
-	- F: Applied force
-	- θ: Angle between the force vector and the lever arm
+- r: Distance from the pivot point to the point of force application (lever arm)
+- F: Applied force
+- θ: Angle between the force vector and the lever arm
 #### Magnitude of Torque
 $$
 	\tau = r_\perp F
