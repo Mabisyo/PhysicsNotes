@@ -1,0 +1,1 @@
+- This course requires a TI-84 calculator.
