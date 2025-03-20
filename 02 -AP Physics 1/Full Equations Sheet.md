@@ -1,0 +1,1 @@
+![](ap-physics-1-equations-sheet.pdf)
