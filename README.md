@@ -41,6 +41,8 @@ Below are some recommended plugins that you should add to your Obsidian Vault to
 - Advanced Tables: Adds Hot Keys for tabling data
 - File Order: Allows you to change the order of your files using number indexing
 - Better MathJax: Math autocompletion and customizable snippets
+- DataFileEditor: Allows you to upload .HTML , .txt, etc
+
 
 
 
