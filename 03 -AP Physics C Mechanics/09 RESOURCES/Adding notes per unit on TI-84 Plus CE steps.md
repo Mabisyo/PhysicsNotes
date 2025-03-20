@@ -30,7 +30,15 @@ Materials needed:
 
 ## Step three
 - Now you turn off and on your calculator and you should have the apps installed. However, if you wish to install notes immediately, keep your calculator plugged in.
+  
+  
+  ## Video to convert future .txt files to calculator files
+- [Here](<- Herehttps://www.youtube.com/watch?v=3hCD1Pxdy3I&t=12s>)
+
+
 ## NOTES PER UNIT
+-For each of these files click on them to see the text, and on the top right you can click the three vertical dots and click “open in default app”. Opening in default app will open the notepad app on your computer which you can then save the notes and then follow the video tutorial. Everything else is simple!
+
 Unit 1: Kinematics notes
   ![](U1kinematics.txt)
 
