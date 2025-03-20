@@ -39,6 +39,9 @@ Materials needed:
 ## NOTES PER UNIT
 -For each of these files click on them to see the text, and on the top right you can click the three vertical dots and click “open in default app”. Opening in default app will open the notepad app on your computer which you can then save the notes and then follow the video tutorial. Everything else is simple!
 
+## Accessing each note
+- To access each note once it has been sent as a “.8xp” file after you converted it and sent it to your calculator, just click (apps → CalcPlex → Tfiles → notename”.txt”) and the notes should be there!
+
 Unit 1: Kinematics notes
   ![](U1kinematics.txt)
 
