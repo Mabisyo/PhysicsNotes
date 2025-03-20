@@ -31,4 +31,5 @@ Materials needed:
 ## Step three
 - Now you turn off and on your calculator and you should have the apps installed. However, if you wish to install notes immediately, keep your calculator plugged in.
 ## NOTES PER UNIT
-Unit 1: Kinematics![[AP1 Kinematics key equations.8xv]]
+Unit 1: Kinematics
+![[AP1 Kinematics key equations 1.txt]]
