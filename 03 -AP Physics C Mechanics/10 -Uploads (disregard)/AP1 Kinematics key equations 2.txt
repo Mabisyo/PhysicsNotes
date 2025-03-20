@@ -1,0 +1,25 @@
+-AP Physics 1 Kinematics:
+
+--Projectile motion key notes: 
+
+v0 = initial velocities 
+
+---NOTE: No HORIZONTAL acceleration in PM
+
+-Time a projectile is in the air (OF A CLIFF):
+
+t = sqrt(2h/g)
+
+-Projectile launched at an angle:
+
+Time at max height-
+t = (v0sin(theta))/g
+
+Maximum height:
+y = ((vo)^2(sintheta))/(2g)
+
+Total time in air:
+t = (2vosin(theta))/g
+
+Range:
+R = ((vo)^2(sin(2theta)))/g
