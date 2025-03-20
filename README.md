@@ -1,7 +1,7 @@
 # Physics Notes
 a collaborative Physics note taking system native on Obsidian.
 _________________
-Using Obsidian Git, we will have the ability to share, collaborate, and organize our physics notes, references, and practice papers to maximize the efficiency and effectiveness of our studying. The goal is to have a comprehensive course outline complete with notes for various physics classes and topics.
+Using Obsidian Git, we will have the ability to share, collaborate, and organize our physics notes, references, and practice papers to maximize the efficiency and effectiveness of our learning. The goal is to have a comprehensive course outline complete with notes for various physics classes and topics.
 By the time you are able to read this file, you are most likely already connected to the repository, either as an editor or a reader. Obsidian may seem overwhelming at first, but the power of this resource is unmatched.
 # For Editors
 Read the following sections to learn how to navigate obsidian as a first timer, and to download the necessary plugins. Remember, if you are a new user, you can look at other notes people have uploaded, and see how they added certain features to make their notes more tangible. Please avoid editing other people’s work without their consent. Be Respectful.
