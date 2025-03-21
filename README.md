@@ -11,8 +11,8 @@ Read the following sections to learn how to navigate obsidian as a first timer, 
 3. To receive work done by other collaborators, press the "pull" icon (3rd from right), and the Obsidian will automatically update.
 4. To push the work done to other collaborators, first you must press the "+" icon next to changes to move your changes into the staged changes folder. Then, click the "commit" button (arrow 2nd from left) to commit your changes. Finally, press push to push the files out to other collaborators.
 5. Notifications will appear in the top right, confirming if pushes and pulls were successful.
-IMPORTANT NOTES:
-- Before pushing, always pull beforehand. Obsidian Git requires you to have the most updated form of the document before pulling.
+**IMPORTANT NOTES:**
+- Before pushing files, always pull files beforehand. Obsidian Git requires you to have the most updated form of the document before pulling.
 - Do NOT work on the same exact note document at the same time as another collaborator. It is possible to work in the same file, but typing on the same document as another person will cause "contradictions" in the files, and glitch out the obsidian document. Communicate with collaborators effectively.
 ____________________
 ## Organization and Formatting
@@ -54,8 +54,15 @@ There are many different types of resources that are up-loadable, such as images
 - With the edition of DataFileEditor, the same process allows you to upload .txt, .HTML, and other documents with the same process. 
 - Remember, many courses will have an uploads folder and a resources folder. The uploads folder is where the drag and drop files will go, while the resource folder is resources for the course, and materials from 3rd parties. Please remember to stay organized.
 ---------
+## Appearance and Aesthetics
+- By going to the settings tab in the bottom left, and navigating to the appearance tab, you are able to switch between light and dark mode, along with changing the accent color for a nicer visual.
+- Community themes are themes made by other obsidian users to make managing obsidian easier. For newer users, clicking on “browse” and downloading the “minimal” theme is recommended, but feel free to pick which one best personally benefits you.
+-----
+## References/Bibliography
+- The Physics Obsidian repository is designed to organize all notes in one central location, in a smart and compact way. In order to do so effectively, many 3rd party sources are used as examples, references, and baselines. To avoid copyrighting and legal issues, cite all reference materials in the bibliography document attached to the obsidian. Avoid using unpublished material.
+-----
 # For Readers
-Obsidian is a powerful resource that allows for multiple groups of people to work together on a shared document, with powerful tools to maximize efficiency. If you are interested in adding notes contact the Obsidian Git owner, [insert London email], and read all of the notes for Editors.
+Obsidian is a powerful resource that allows for multiple groups of people to work together on a shared document, with powerful tools to maximize efficiency. If you are interested in adding notes, contact the Obsidian Git owner, [insert London email], and read all of the notes for Editors.
 To maximize the potential of Obsidian, and learn as much content as possible, please follow the steps below. 
 ## Required Features and Plugins
 Community plug-ins are what makes obsidian so powerful. Plug-ins are essentially modifications to the obsidian, which allow for more aesthetic, compact, and efficient notes.
@@ -75,5 +82,10 @@ To download community plug-ins, follow the steps below.
 - Better MathJax: Math autocompletion and customizable snippets
 - Paste URL into selection: Allows you to paste links onto text
 - DataFileEditor: Allows you to upload .HTML , .txt, etc.
+-----
+## Appearance and Aesthetics
+- By going to the settings tab in the bottom left, and navigating to the appearance tab, you are able to switch between light and dark mode, along with changing the accent color for a nicer visual.
+- Community themes are themes made by other obsidian users to make managing obsidian easier. For newer users, clicking on “browse” and downloading the “minimal” theme is recommended, but feel free to pick which one best personally benefits you.
+----
 ## Disclaimers
 - This is a group project, started by students, ran by students, and built by students. 3rd party help is what makes a lot of this content possible, but there is a very small chance that there may be small content errors, or gaps in content. Though highly unlikely, if an error is spotted, contact an editor you know, or contact the Obsidian Git owner, and make us aware. Thank you, and we hope these notes allow you to succeed in your classes, and shape the future.
