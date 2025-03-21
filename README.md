@@ -63,6 +63,7 @@ There are many different types of resources that are up-loadable, such as images
 -----
 # For Readers
 Obsidian is a powerful resource that allows for multiple groups of people to work together on a shared document, with powerful tools to maximize efficiency. If you are interested in adding notes, contact the Obsidian Git owner, [insert London email], and read all of the notes for Editors.
+- As a reader, you will be able to pull files from the repository, meaning you will get updates from collaborators, but unless granted permission, you will not be able to push files to the repository. You will still however, be able to make changes on your end, but not for everyone on the Repository.
 To maximize the potential of Obsidian, and learn as much content as possible, please follow the steps below. 
 ## Required Features and Plugins
 Community plug-ins are what makes obsidian so powerful. Plug-ins are essentially modifications to the obsidian, which allow for more aesthetic, compact, and efficient notes.
