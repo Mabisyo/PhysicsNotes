@@ -33,10 +33,13 @@ After following the tutorials, the “ConvText” application should be present 
 8. To access each note once it has been sent as a “.8xp” file after you converted it and sent it to your calculator, just click (apps → CalcPlex → Tfiles → insertname”.txt”) and the notes should be there.
 -----
 # Unit Notes and How to Access Them
-1. For each of the files below click on them to see the text, and on the top right you can click the three vertical dots and click “open in default app”. 
+1. For each of the files from either the [[TI-84 APC Notes]] or [[Ti-84 AP1 Notes]]click on them to see the text, and on the top right you can click the three vertical dots and click “open in default app”. 
 2. Doing so will open a notepad, which following the steps above, will allow you to save and open the notes on the calculator.
-Below are the list of notes for each unit for the course. Keep in mind that these notes are majority equations, and the occasional one or two easily forgettable details. The expectation is that you understand the course concepts and have them memorized on exam day.
+ Keep in mind that these notes are majority equations, and the occasional one or two easily forgettable details. The expectation is that you understand the course concepts and have them memorized on exam day.
 
-**Unit 1: Kinematics**![](U1kinematics.txt)
+The link to the AP Physics C: Mechanics calculator notes are here [[TI-84 APC Notes]]
+
+ The link to the AP Physics 1 calculator notes are here [[Ti-84 AP1 Notes]]
+
 
 
