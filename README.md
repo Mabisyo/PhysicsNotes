@@ -83,6 +83,7 @@ To download community plug-ins, follow the steps below.
 - Better MathJax: Math autocompletion and customizable snippets
 - Paste URL into selection: Allows you to paste links onto text
 - DataFileEditor: Allows you to upload .HTML , .txt, etc.
+- Latex OCR: Allows you to copy and paste LATEX mathematics from images. 
 -----
 ## Appearance and Aesthetics
 - By going to the settings tab in the bottom left, and navigating to the appearance tab, you are able to switch between light and dark mode, along with changing the accent color for a nicer visual.
