@@ -1,0 +1,129 @@
+U2- Dynamics
+
+ac= centripetal acceleration
+Fc = centripetal force
+T = orbital period
+f = frequency
+V = tangential velocity
+r = radius
+w <- omega = angular velocity
+g = acceleration due to gravity
+m = mass of small object
+M = mass of big object
+Muk = coefficient of friction kin
+Mus = coefficient of friction stat
+G = newton's gravitational constant
+L = length of string (con. pend.)
+Fn = normal force
+fs = general static friction force
+S = arclength
+
+
+
+
+
+    UCM & Gravitation:
+
+  - ac = (V^2)/r
+  - ac = (w^2)r
+ -  Fc = (mV^2)/r
+  - Fc = m(w^2)r
+ -  T = 1/f
+
+  - v = (2rpi)/T
+   -w = (2pi)/T
+
+   Conic pendulum scenario:
+   Fc = mgtan(theta)
+   V = sqrt(gLsin(theta)tan(theta))
+
+   Turning airplane scenario:
+   Fc = mgtan(theta)
+   V = sqrt(grtan(theta))
+
+   Turning on a flat curve w friction:
+   
+    Fc = (Mus)mg
+    V = sqrt(gr(Mus))
+
+   Turning on a banked curve w friction:
+
+    Fc = Fn(sin(theta)) + fs(cos(theta))
+
+
+         mg(sin(theta) + Muscos(theta))
+    Fc =  ---------------------------
+          cos(theta) - Mussin(theta)
+
+    
+           rg(sin(theta) + Mus(cos(theta)))
+    V^2 =  -------------------------------
+            cos(theta) - (Mus)sin(theta)
+
+NOTE: SQUARE ROOT EXPRESSION ABOVE FOR V
+
+ v = rw
+ a = ra
+ S = r(deltatheta)
+
+                       Forces:
+-1st Newton Law: An object at rest remains at 
+rest, and an object in motion remains in motion at a constant velocity unless acted 
+upon by a net ext. force
+ 
+(!) AKA Inertia: an object's resistance to a 
+change in motion
+
+-2nd Newton Law: 
+	F = ma --> a = F/m
+Force and acceleration are directly prop.
+Mass and acceleration are inversely prop.
+
+-3rd Newton Law: "for every action, there is an equal and opposite reaction" 
+	F1on2 = -F2on1
+
+Net Force:
+	F = ma
+	sigmaFx = F1x + F2x...
+	sigmaFy = F1y + F2y...
+
+Friction:
+* Fk < Fs < Fsmax always
+Fs </= Fsmax
+Fsmax = MusFn
+
+fk = MukFn
+
+Weight:
+
+Fg = mg 
+
+*to split forces into components: SOHCAHTOA
+
+Inclined Planes:
+
+Fn = mgcos(theta) *Fn is always the force perpendicular to the surface
+			equal in magn. to the perpen. vector of Fg.
+
+Fg = mgsin(theta) *horizontal vector (object wants to travel down the incline) 
+
+Fg = mgcos(theta) *vertical vector (object pushes into the incline; creates Fn)
+
+fk = MukFn = Mukmgcos(theta)
+
+Pulleys:
+
+Ideal Pulley - frictionless, massless, and does not accelerate
+
+*use the "weird axis" which travels along the string or rope:
+
+> create a coord. system for each object making the (+) direction
+	the direction of the presumed motion
+> then, write the equation for acceleration for each object and 
+   add them together; internal parts should cancel out (tension);
+> then, solve for acceleration
+- accelerations of each object will be equal since they are bound
+
+
+
+                    

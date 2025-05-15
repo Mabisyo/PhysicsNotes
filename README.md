@@ -51,7 +51,7 @@ Typing equations is an important skill, especially for a math/physics orientated
 There are many different types of resources that are up-loadable, such as images, gifs, video links, pdfs, etc. DataFileEditor allows to obsidian to accept files such as .HTML, .txt, and many more. Follow the instructions below to upload resources.
 - For links, a simply copy and paste into the document allows for all collaborators to see it. If you want to copy and paste a URL onto a piece of text, the Paste URL selection plugin allows for this, simply CTRL-V a link onto a highlighted piece of text to turn it into a link.
 - To upload gifs, images, and pdfs, the process is a bit more tedious. First, download the file onto the computer. Name the file accordingly, do not use spaces, and avoid using numbers, capital letters, or underscores IF POSSIBLE. Next, open file explorer next to the Obsidian vault, and drag and drop the specific document into the “uploads” folder. Make sure you upload the document to the corresponding course, and in the correct folder for organization purposes. Finally, type in an exclamation point, followed by an open and close bracket, and then a parenthesis, !-[]-(), and inside the parathesis, type in the name of the, file exactly how it is denoted in the folder, and add the file name at the end. (.png, .pdf, .gif, etc.). As you click away, the script should disappear, and all collaborators will be able to see the image.
-- With the edition of DataFileEditor, the same process allows you to upload .txt, .HTML, and other documents with the same process. 
+- With the addition of DataFileEditor, the same process allows you to upload .txt, .HTML, and other documents with the same process. 
 - Remember, many courses will have an uploads folder and a resources folder. The uploads folder is where the drag and drop files will go, while the resource folder is resources for the course, and materials from 3rd parties. Please remember to stay organized.
 ---------
 ## Appearance and Aesthetics
@@ -83,6 +83,7 @@ To download community plug-ins, follow the steps below.
 - Better MathJax: Math autocompletion and customizable snippets
 - Paste URL into selection: Allows you to paste links onto text
 - DataFileEditor: Allows you to upload .HTML , .txt, etc.
+- Latex OCR: Allows you to copy and paste LATEX mathematics from images. 
 -----
 ## Appearance and Aesthetics
 - By going to the settings tab in the bottom left, and navigating to the appearance tab, you are able to switch between light and dark mode, along with changing the accent color for a nicer visual.
