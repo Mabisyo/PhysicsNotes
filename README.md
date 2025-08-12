@@ -38,6 +38,7 @@ To download community plug-ins, follow the steps below.
 - Better MathJax: Math autocompletion and customizable snippets
 - Paste URL into selection: Allows you to paste links onto text
 - DataFileEditor: Allows you to upload .HTML , .txt, etc.
+- Better Export PDF
 __________
 ## Typing Equations
 Typing equations is an important skill, especially for a math/physics orientated course. To type in the equations, the “Better MathJax” Community plugin is essential for typing in special characters. To type in equations, follow the steps below.
