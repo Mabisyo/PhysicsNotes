@@ -1,5 +1,6 @@
 #physics1-mechanics-U6 
-
+[[Physics 1]]
+___________
 ## Rotational Kinetic Energy
 - Rotational kinetic energy describes the energy of rotating objects. Understanding this concept, along with translational kinetic energy, helps explain how objects store energy through rotation and how to describe motion.
 - It may be calculated using the formula:

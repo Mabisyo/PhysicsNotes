@@ -1,3 +1,7 @@
+_______
+#physics1-mechanics-U7 
+[[Physics 1]]
+____________
 ## Problem 1: Mass–Spring System (SHM Basics)
 
 **Problem Statement:**  

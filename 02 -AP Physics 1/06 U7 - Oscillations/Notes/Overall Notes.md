@@ -1,3 +1,8 @@
+_______
+#physics1-mechanics-U7 
+[[Physics 1]]
+__________
+
 Oscillatory motion is a central topic in classical mechanics that deals with systems moving back and forth about an equilibrium position. Understanding oscillations not only helps with AP Physics 1 but also lays the groundwork for studying engineering systems, acoustics, electronics, and even quantum mechanics.
 
 ## 1. Overview & Key Concepts
