@@ -1,0 +1,24 @@
+Conductors v Insulators:
+
+1. Conductors
+
+-Charges move freely inside the material.
+
+-Electric field inside = 0 at electrostatic equilibrium.
+
+-Excess charge resides on the surface.
+
+-Equipotential: entire conductor same potential.
+-Examples: metals (Cu, Al, Au).
+
+2. Insulators
+
+-Charges do not move freely.
+
+-Electric field can exist inside.
+
+-Charge stays where placed.
+
+-No natural equipotential.
+
+-Examples: rubber, glass, plastic.

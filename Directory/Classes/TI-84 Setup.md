@@ -38,7 +38,7 @@ After following the tutorials, the “ConvText” application should be present 
  Keep in mind that these notes are majority equations, and the occasional one or two easily forgettable details. The expectation is that you understand the course concepts and have them memorized on exam day.
 
 The link to the AP Physics C: Mechanics calculator notes are here [[TI-84 APC Notes]]
-
+The link to the AP Physics C: Electricity & Magnetism calculator notes are here [[Ti-84 APC Electricity & Magnetism Notes]]
  The link to the AP Physics 1 calculator notes are here [[Ti-84 AP1 Notes]]
 
 
