@@ -182,7 +182,7 @@ $$
 - Use **calculator-friendly letters**: `e0` for epsilon naught.
   
 ## Calculator Notes
-- To have the ability to transfer notes onto your calculator you must first follow the steps in [[TI-84 Setup AP1]]. Then, go to []
+- To have the ability to transfer notes onto your calculator you must first follow the steps in [[BarrosoKitten/Directory/Classes/TI-84 Setup|TI-84 Setup]]. Then, go to []
 
   
   
