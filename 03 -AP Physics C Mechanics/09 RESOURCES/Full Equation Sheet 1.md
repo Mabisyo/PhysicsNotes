@@ -1,3 +1,5 @@
+[[Physics 1 C]]
+
 **Unit 3: Work, Energy, and Power**
 	Definition of a Joule, the unit for work and energy: $$ J = N\space m = \frac {kg \space m^2}{s^2} $$
 	Definition of work: $$ W = F•r $$

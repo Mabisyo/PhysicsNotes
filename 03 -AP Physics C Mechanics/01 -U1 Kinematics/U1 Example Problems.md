@@ -1,5 +1,5 @@
 ____________
-[[Physics 1 C]]
+#physicsC-mechanics-U1 [[Physics 1 C]]
 _____________
 
 1. Find the cross product, the dot product, and the angle between the following 2 vectors.
