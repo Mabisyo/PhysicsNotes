@@ -1,3 +1,4 @@
+[[Directory-Table of Contents]] [[Physics 1]] [[Physics 1 C]] [[Physics C EMAG]]
 
 The TI-84 calculators are very powerful tools, and allow you to upload notes onto the calculator to have on exam day. Even though it may seem like cheating, it is recommended by many teachers and by college board themselves, due to the sheer magnitude of the equations in the course. Follow the steps below to upload the provided notes below.
 

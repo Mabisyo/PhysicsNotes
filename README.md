@@ -85,6 +85,7 @@ To download community plug-ins, follow the steps below.
 - Paste URL into selection: Allows you to paste links onto text
 - DataFileEditor: Allows you to upload .HTML , .txt, etc.
 - Latex OCR: Allows you to copy and paste LATEX mathematics from images. 
+- Latex Suite: Adds Autocompletion and suggestion features when typing mathematics using Latex
 - TikZJax: Allows for complex diagram creation, such as circuits and topological graphs.
 -----
 ## Appearance and Aesthetics
