@@ -1,3 +1,7 @@
+____________
+[[Physics 1 C]]
+_____________
+
 1. Find the cross product, the dot product, and the angle between the following 2 vectors.
    $$<7i,3j,-2j>\space <-4i,8j,9k>$$
 

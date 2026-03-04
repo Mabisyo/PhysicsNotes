@@ -1,0 +1,67 @@
+Unit 8: Electric Charges, Fields, and Gauss Law:
+
+R = radius of the sphere
+Q = total charge of the sphere
+r = distance from the center
+E - electric field
+K= couloumb's constant
+Q = total charge of sphere, rod, system..
+lamba = linear charge density 
+s.c.d = surface charge density
+
+---1. Electric field from a uniformly charged sphere (inside & outside):
+
+E(r) = (KQ)/(r^2) r>=R (outside)
+
+E(r) = (KQr)/(R^3) (inside) 
+
+Steps: 
+Pick a Gaussian surface: sphere of radius r centered on the charge.
+
+Check r: if r < R it's inside, if r >= R it's outside.
+
+Find enclosed charge:
+
+Outside: all charge Q.
+
+Inside: fraction proportional to volume it's Q enclosed = Q * (r^3 / R^3).
+
+Apply Gauss Law:
+E * surface_area = Q_enclosed/eps0
+Surface_area = 4 * pi * r^2
+
+Solve for E.
+Direction: radial, away from center (for positive charge).
+
+
+---2. Electric field of infinite line of charge
+
+E = (lamba)/(eps0 * 2pi * r) 
+
+Pick a Gaussian surface: cylinder of radius r around the wire.
+
+Use symmetry: field points radially outward.
+
+Flux through cylinder:
+flux = E * (2 * pi * r * length)
+Q_enclosed = lambda * length
+flux = Q_enclosed / e0
+
+And! Solve
+
+---3. Electric field of an infinite plane
+
+E = (s.c.d)/(2eps0)
+
+Pick a Gaussian surface a pillbox that straddles the sheet.
+
+Check symmetry: field perpendicular to sheet, same on both sides.
+
+Flux through pillbox:
+
+flux = (E * top_area) + (E * bottom_area) = 2 * E * A
+
+Q_enclosed = sigma * A
+
+flux = Q_enclosed / e0 → E = sigma / (2 * e0)
+
