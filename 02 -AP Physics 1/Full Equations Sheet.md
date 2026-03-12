@@ -1,1 +1,1 @@
-![](ap-physics-1-equations-sheet.pdf)
+gb5vb 90fshow![](ap-physics-1-equations-sheet.pdf)
