@@ -28,17 +28,6 @@ To download community plug-ins, follow the steps below.
 3. In the search bar, search for one of the following plugins listed below, and click on the window.
 4. Click on “install,” and “enable.” Once the plugins are downloaded, you will be able to see the list of installed plugins after clicking the x in the top right.
 5. It is extremely important that ALL of the plugins below are downloaded. If someone else makes a change involving one of the following plugins, you won’t be able to see what changes they have made, or the changes will be distorted. Below is the list of ALL REQUIRED (will be updated) plugins for maximum productivity in the Obsidian, and what they do.
-------------
-- Obsidian Git (If you are reading this you most likely already have it working)
-- Excalidraw: Allows you to add hand written notes on native Obsidian
-- Omnisearch: Allows you to search for PDFs and any other external files that are uploaded to you vault 
-- Smart Typography: Allows for quicker typing of unconventional characters
-- Advanced Tables: Adds Hot Keys for tabling data
-- File Order: Allows you to change the order of your files using number indexing
-- Better MathJax: Math autocompletion and customizable snippets
-- Paste URL into selection: Allows you to paste links onto text
-- DataFileEditor: Allows you to upload .HTML , .txt, etc.
-- Better Export PDF
 __________
 ## Typing Equations
 Typing equations is an important skill, especially for a math/physics orientated course. To type in the equations, the “Better MathJax” Community plugin is essential for typing in special characters. To type in equations, follow the steps below.
