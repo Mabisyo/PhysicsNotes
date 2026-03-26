@@ -4,6 +4,9 @@ Work done by field = -U
 
 Positive particles moving along the direction of the electric field => positive work done by the field.
 
+Positive particles move from High potential to low Potential
+
+
 R = radius of the sphere
 Q = total charge of the sphere
 r = distance from the center
@@ -11,7 +14,7 @@ E - electric field
 K= couloumb's constant
 Q = total charge of sphere, rod, system..
 lamba = linear charge density 
-s.c.d = surface charge density
+sigma = surface charge density
 
 1. Electric field from a uniformly charged sphere (inside & outside):
 
@@ -56,7 +59,7 @@ And! Solve
 
 3. Electric field of an infinite plane
 
-E = (s.c.d)/(2eps0)
+E = (sigma)/(2eps0)
 
 Pick a Gaussian surface a pillbox that straddles the sheet.
 
