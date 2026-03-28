@@ -1,5 +1,12 @@
 Unit 8: Electric Charges, Fields, and Gauss Law:
 
+Work done by field = -U
+
+Positive particles moving along the direction of the electric field => positive work done by the field.
+
+Positive particles move from High potential to low Potential
+
+
 R = radius of the sphere
 Q = total charge of the sphere
 r = distance from the center
@@ -7,9 +14,9 @@ E - electric field
 K= couloumb's constant
 Q = total charge of sphere, rod, system..
 lamba = linear charge density 
-s.c.d = surface charge density
+sigma = surface charge density
 
----1. Electric field from a uniformly charged sphere (inside & outside):
+1. Electric field from a uniformly charged sphere (inside & outside):
 
 E(r) = (KQ)/(r^2) r>=R (outside)
 
@@ -34,7 +41,7 @@ Solve for E.
 Direction: radial, away from center (for positive charge).
 
 
----2. Electric field of infinite line of charge
+2. Electric field of infinite line of charge
 
 E = (lamba)/(eps0 * 2pi * r) 
 
@@ -49,9 +56,10 @@ flux = Q_enclosed / e0
 
 And! Solve
 
----3. Electric field of an infinite plane
 
-E = (s.c.d)/(2eps0)
+3. Electric field of an infinite plane
+
+E = (sigma)/(2eps0)
 
 Pick a Gaussian surface a pillbox that straddles the sheet.
 
@@ -65,3 +73,61 @@ Q_enclosed = sigma * A
 
 flux = Q_enclosed / e0 → E = sigma / (2 * e0)
 
+
+
+
+
+4. Electric field of a ring of charge (along the axis)
+
+R = radius of the ring
+Q = total charge of the ring
+x = distance from the center along the axis of the ring
+
+E = (KQx)/((x^2 + R^2)^(3/2))
+
+Steps (derivation likely not needed):
+
+
+Break the ring into small charge elements dq.
+
+Each dq produces a small electric field dE.
+
+Because of symmetry, horizontal components cancel.
+
+Only the components along the axis add together.
+
+Distance from dq to the point:
+
+r = sqrt(x^2 + R^2)
+
+Electric field from dq:
+
+dE = (K dq)/(r^2)
+
+Component along the axis:
+
+dE_axis = dE * cos(theta)
+
+From geometry:
+
+cos(theta) = x/r
+
+Substitute:
+
+dE_axis = (K dq)/(r^2) * (x/r)
+
+dE_axis = (Kx dq)/(r^3)
+
+Since r = sqrt(x^2 + R^2), r^3 = (x^2 + R^2)^(3/2)
+
+dE_axis = (Kx dq)/((x^2 + R^2)^(3/2))
+
+Integrate around the ring:
+
+∫dq = Q
+
+Final result:
+
+E = (KQx)/((x^2 + R^2)^(3/2))
+
+Direction: along the axis of the ring.
