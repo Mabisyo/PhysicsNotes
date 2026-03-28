@@ -34,7 +34,7 @@ $$\begin{array}
 \rightarrow l^2+R^2 = R^2\tan^2\theta = R^2(\tan^2\theta)=R^2\sec^2\theta \\
 \rightarrow (R^2\sec^2\theta)^\frac{3}{2} = R^3\sec^3\theta \\ \\
  \\
-\rightarrow \sin \alpha = \frac{l}{\sqrt{ l^+R^2 }}
+\rightarrow \sin \alpha = \frac{l}{\sqrt{ l^2+R^2 }}
  \\ \\
  
 \rightarrow R\int\frac{R\sec^2\theta d\theta}{R^3\sec^3\theta} = R\int\frac{d\theta}{R^2\sec \theta}  \\
@@ -45,8 +45,20 @@ $$\begin{array}
  \\
  \vec{B} =  \frac{2\mu_{0}I}{4\pi R} = \boxed{\frac{\mu_{0}I}{2\pi R}}
 \end{array}$$
+## Geometries
+_______
+### Infinite Straight Long Wire 
+![[Long Straight Wire.png]]
+### Trigonometric Substitution Triangle
+![[Screenshot 2026-03-28 134531.png]]
 ### Step By Step Explanation
-1. 
+1. Start with fundamental Biot-Savart Equation and establish trigonometric identities
+2. Substitute the expressions for *r* and *sine of theta* into the integral equation
+3. Simplify the expression inside of the integral which will result in the equation shown in the third line.
+4. Establish trigonometric substitution equations for *l*, *dl*, and *l squared + R squared* then simplify for *R cubed times sec cubed of theta*
+5. Based on the trig substitution triangle, we use *sine of alpha* to represent the angles of this triangle, giving you the equation shown above for *sine of alpha*
+6. Substitute this into the integral and then simplify
+7. Integrate from negative infinity to positive infinity for the answer shown in the box. 
 
 
 
