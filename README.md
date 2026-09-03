@@ -76,6 +76,7 @@ To download community plug-ins, follow the steps below.
 - Latex OCR: Allows you to copy and paste LATEX mathematics from images. 
 - Latex Suite: Adds Autocompletion and suggestion features when typing mathematics using Latex
 - TikZJax: Allows for complex diagram creation, such as circuits and topological graphs.
+- EasyTikZ: Simplifies the TikZJax experience
 -----
 ## Appearance and Aesthetics
 - By going to the settings tab in the bottom left, and navigating to the appearance tab, you are able to switch between light and dark mode, along with changing the accent color for a nicer visual.
