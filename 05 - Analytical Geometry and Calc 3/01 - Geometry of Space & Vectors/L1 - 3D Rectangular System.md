@@ -56,7 +56,7 @@
   "axis_label_x_polar": "",
   "axis_label_y_polar": "",
   "displayAlign": "left",
-  "displayWidth": 440
+  "displayWidth": 490
 }
 ```
 * As a result, there are now 3 planes which divide space into 8 regions called octants:
